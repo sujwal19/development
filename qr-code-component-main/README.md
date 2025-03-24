@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/sujwal19/development/tree/main/qr-code-component-main)
+- Live Site URL: (https://qrcode-nine-umber.vercel.app/)
 
 ## My process
 
